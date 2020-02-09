@@ -1,0 +1,15 @@
+{
+  "publisher": "qub",
+  "project": "tripledes-java",
+  "version": "1",
+  "java": {
+    "version": "1.8",
+    "dependencies": [
+      {
+        "publisher": "qub",
+        "project": "des-java",
+        "version": "1"
+      }
+    ]
+  }
+}
